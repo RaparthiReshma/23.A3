@@ -1,0 +1,14 @@
+//Even or Odd//
+n=int(input("enter the value:"))
+if n%2==0:
+    print("given number is even")
+else:
+    print("given number is odd")
+//OUTPUT-1//
+enter the value:2
+given number is even
+> 
+//OUTPUT-2//
+enter the value:15
+given number is odd
+> 
